@@ -1,0 +1,20 @@
+{
+  "score": 28,
+  "company": "Hindustan Petroleum",
+  "key_insights": "Hindustan Petroleum demonstrates a relatively stable financial profile, supported by strong credit ratings from CRISIL, Fitch, and ICRA, indicating a low risk of default. The company's revenue for the past year is approximately $51.7 billion USD (₹4.31 trillion), with a recent revenue growth rate of around 1%. While the gross profit margin has seen a slight decrease, operating profit margins have shown improvement in recent quarters. Liquidity is adequate, supported by the 'CRISIL A1+' rating on short-term debt, implying high certainty of timely payment. Recent quarterly results show a significant increase in net profit, although revenue growth has been inconsistent. Overall, Hindustan Petroleum presents a moderate risk profile, balancing its strong market position and government backing with the inherent volatility of the oil and gas industry.",
+  "red_flags": [
+    "Slight decrease in gross profit margin in recent years.",
+    "Revenue growth has been inconsistent, with some quarterly declines.",
+    "Exposure to volatility in crude oil prices and currency exchange rates."
+  ],
+  "strengths": [
+    "Strong credit ratings from multiple agencies (CRISIL AAA/Stable/CRISIL A1+, Fitch BBB-, ICRA AAA (Stable)).",
+    "Significant market presence in the Indian oil and gas sector.",
+    "Government backing and strategic importance.",
+    "Improved operating profit margins in recent quarters."
+  ],
+  "growth_rate": 1,
+  "revenue": 51970000000,
+  "liquidity": 5000000000,
+  "profit_margins": 2
+}

@@ -1,0 +1,19 @@
+{
+  "score": 65,
+  "company": "Hindustan Petroleum",
+  "key_insights": "Hindustan Petroleum faces several challenges. A 25% YoY decline in Q4 FY25 net profit signals financial strain. The temporary shutdown of the Elathur depot due to a 1,500-liter diesel spill raises environmental and reputational concerns, with potential long-term liabilities and community distrust. Exploring alternatives to Russian oil due to potential sanctions and price volatility introduces supply chain uncertainty. A reduced dividend may disappoint investors. Stock price declines following tariff threats on Russian oil imports demonstrate vulnerability to geopolitical events. While the company has reported profit increases in other quarters, these negative events create significant risk.",
+  "red_flags": [
+    "Q4 FY25 Net Profit Decline (25% YoY)",
+    "Elathur Depot Diesel Spill (Environmental & Reputational Damage)",
+    "Potential Supply Chain Disruptions (Russian Oil Alternatives)",
+    "Reduced Dividend",
+    "Vulnerability to Geopolitical Events"
+  ],
+  "strengths": [
+    "Exploration of alternative crude oil sources",
+    "Reported profit increases in some quarters (e.g., Q3)",
+    "Stock price increase after Q1 results"
+  ],
+  "product_quality_rating": -1,
+  "environmental_rating": 50
+}

@@ -1,0 +1,17 @@
+{
+  "score": 65,
+  "company": "Airbus",
+  "key_insights": "The NTSB issued an urgent safety recommendation regarding CFM International's LEAP-1B engines, used in some Airbus A320neo aircraft, due to the potential for smoke to enter the cockpit or cabin. This poses a flight safety risk, potentially leading to increased inspections, groundings, and reputational damage. Google's AI falsely linked Airbus to an Air India crash, which could also cause reputational harm, though the company responded.",
+  "red_flags": [
+    "NTSB urgent safety recommendation",
+    "Potential engine issues on A320neo",
+    "Risk of smoke in cockpit/cabin",
+    "Google AI misattribution"
+  ],
+  "strengths": [
+    "Strong order book",
+    "Expanding manufacturing in India"
+  ],
+  "product_quality_rating": 75,
+  "environmental_rating": -1
+}

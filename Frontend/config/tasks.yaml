@@ -1,0 +1,48 @@
+finance_risk_score:
+  description: >
+    Analyze {topic} using their financial statements, credit history, payment behavior, and market conditions. 
+    Assign a strict, unforgiving risk score (1 = lowest risk, 100 = highest risk). Support the score with clear reasoning, 
+    highlighting key financial strengths, weaknesses, and red flags. Include a confidence level for the assessment. 
+    Ensure the scoring framework is consistent, objective, and tailored to procurement decision-making.
+  expected_output: >
+    1. {topic} Financial Risk Score: (1 = lowest risk, 100 = highest risk)
+    2. 3-4 paragraph reasoning as to why, with examples and short effects
+    3. Short list of red flags
+    4. Short list of strengths
+    5. Past Year Growth Rate of {topic}
+    6. Revenue (of past year in USD)
+    7. Liquidity (in $USD, if in other currency, convert to $USD)
+    8. Profit Margins
+
+  agent: finance_wiz
+  async_execution: False
+  output_file: output/finance_{topic}.json
+
+news_risk_score:
+  description: >
+    Review the latest credible news articles about {topic}. Extract only material negative events (lawsuits, regulatory actions, fraud, labor disputes, recalls, etc.) 
+    and evaluate their impact and credibility. Convert this into a risk score (0 = minimal, 100 = extreme) using a transparent, 
+    evidence-based method. Provide a concise rationale, tag each item by risk category, and ensure the score is objective, consistent, and auditable.
+  expected_output: >
+    1. {topic} News Risk Score: (1 = lowest risk, 100 = highest risk)
+    2. 3-4 paragraph reasoning as to why, with examples and short effects
+    3. Short list of red flags
+    4. Short list of strengths
+    5. Product Quality Rating (1-100, if no information available, give -1)
+    6. Environmental sustainability rating (1-100, if no information available, give -1)
+  agent: news_wiz
+  async_execution: False
+  output_file: output/news_{topic}.json
+
+describe_task:
+  description: >
+    Give a description of {topic} 
+  expected_output: >
+    1. {topic} Legal name
+    2. Industries
+    3. Industry and primary business activities
+    4. Number of Countries operated in
+    5. Short summary of the company {topic} 
+  agent: gen_wiz
+  async_execution: False
+  output_file: output/general_{topic}.json

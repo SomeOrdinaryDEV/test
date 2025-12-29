@@ -1,0 +1,21 @@
+{
+  "score": 28,
+  "company": "Shell Plc",
+  "key_insights": "Shell Plc demonstrates a strong financial profile, underpinned by robust credit ratings from S&P (A+), Moody's (Aa2), and Fitch (AA-), all with stable outlooks. These ratings reflect Shell's strong operating performance and gradual debt reduction. The company maintains a solid liquidity position, ensuring its ability to meet short-term obligations and invest in future growth. While revenue experienced a decrease in 2023 compared to 2022, profit margins remain healthy, indicating efficient cost management and profitability. Shell's strategic focus on operational performance and financial discipline contributes to its overall financial stability, making it a relatively low-risk supplier.",
+  "red_flags": [
+    "Decline in revenue in 2023 compared to 2022",
+    "Net losses related to sale of assets in Q4 2024",
+    "Fluctuations in quarterly income due to impairment charges"
+  ],
+  "strengths": [
+    "Strong credit ratings (A+/Aa2/AA-)",
+    "Stable outlook from rating agencies",
+    "Healthy profit margins",
+    "Commitment to share repurchases",
+    "Strong Liquidity"
+  ],
+  "growth_rate": -16,
+  "revenue": 280800000000,
+  "liquidity": 7000000000,
+  "profit_margins": 5
+}

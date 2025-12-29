@@ -1,0 +1,16 @@
+{
+  "score": 25,
+  "company": "Dassault Aviation",
+  "key_insights": "Dassault Aviation demonstrates strong financial performance. The company has a substantial backlog, indicating future revenue potential. Revenue grew significantly in the past year. Profit margins are healthy, and liquidity is strong. However, the cyclical nature of the aerospace industry and reliance on government contracts introduce some level of risk.",
+  "red_flags": [],
+  "strengths": [
+    "Strong revenue growth",
+    "Healthy profit margins",
+    "High liquidity",
+    "Growing backlog"
+  ],
+  "growth_rate": 29,
+  "revenue": 6490000000,
+  "liquidity": 1766700000,
+  "profit_margins": 17
+}

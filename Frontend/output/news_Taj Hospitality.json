@@ -1,0 +1,19 @@
+{
+  "score": 35,
+  "company": "Taj Hospitality",
+  "key_insights": "Taj Hospitality faces moderate risk due to the impact of geopolitical tensions on the hospitality sector, leading to potential booking cancellations and business slumps. However, the company has demonstrated resilience with reported profit increases despite these challenges. Positive aspects include strong environmental sustainability initiatives and generally favorable product quality reviews. There are some concerns regarding labor management based on limited reviews, which warrants further investigation.",
+  "red_flags": [
+    "Impact of geopolitical tensions on bookings",
+    "Potential for revenue decline in affected regions",
+    "Negative employee reviews indicating management issues (limited data)",
+    "Reliance on specific regions vulnerable to geopolitical instability"
+  ],
+  "strengths": [
+    "Strong brand reputation",
+    "Demonstrated financial resilience",
+    "Commitment to environmental sustainability",
+    "Positive customer reviews on product quality"
+  ],
+  "product_quality_rating": 85,
+  "environmental_rating": 75
+}

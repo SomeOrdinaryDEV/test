@@ -1,0 +1,21 @@
+{
+  "score": 60,
+  "company": "Neste Aviation",
+  "key_insights": "Neste Aviation experienced a challenging year in 2024, marked by a revenue decrease and a net loss, reversing the strong profitability of the previous year. The company faces headwinds in the sustainable aviation fuel market, including volatile market conditions and fluctuating renewable sales margins. However, Neste maintains a strong position in the SAF market and is actively expanding its SAF business. Liquidity remains relatively strong, providing some buffer against short-term financial pressures. The risk score reflects the combination of these factors, indicating a moderate level of risk.",
+  "red_flags": [
+    "Revenue decrease in 2024",
+    "Net loss in 2024",
+    "Volatile market conditions for SAF",
+    "Decreased renewable sales margins"
+  ],
+  "strengths": [
+    "Strong position in the SAF market",
+    "Continued efforts to grow the SAF business",
+    "Historically strong financial performance",
+    "Relatively strong liquidity"
+  ],
+  "growth_rate": -10,
+  "revenue": 22089495000,
+  "liquidity": 1070000000,
+  "profit_margins": -1
+}

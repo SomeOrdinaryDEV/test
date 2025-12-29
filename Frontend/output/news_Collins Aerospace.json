@@ -1,0 +1,21 @@
+{
+  "score": 75,
+  "company": "Collins Aerospace",
+  "key_insights": "The DGCA and FAA issued safety guidance for Boeing 737s equipped with Collins Aerospace SVO-730 rudder rollout guidance actuators due to potential jamming issues. An NTSB probe identified the SVO-730 rudder rollout guidance actuator as the source of the problem, with moisture and freezing being potential causes. This has led to operational restrictions (CAT 3B landings) and potential safety concerns, resulting in negative press and regulatory scrutiny. While Collins is also expanding its facilities and securing FAA approvals in other areas, the rudder issue presents a significant, immediate risk. The risk score reflects the potential for accidents, liability, and reputational harm stemming from the faulty actuators. The issue is compounded by the uncertainty regarding the number of affected aircraft, increasing the potential scope of the problem. The fact that the NTSB and FAA have both issued warnings underscores the severity of the situation. This specific issue overshadows the positive news of expansion and partnerships, leading to a higher risk assessment.",
+  "red_flags": [
+    "Faulty rudder actuators (SVO-730)",
+    "DGCA/FAA safety warnings",
+    "Potential rudder jamming",
+    "Operational restrictions (CAT 3B)",
+    "NTSB investigation and safety recommendation",
+    "Uncertainty about the number of affected aircraft"
+  ],
+  "strengths": [
+    "Expansion of facilities in India",
+    "FAA approval for multi-core processor",
+    "MRO agreement with Hindustan Aeronautics",
+    "Investment in predictive maintenance solutions"
+  ],
+  "product_quality_rating": 60,
+  "environmental_rating": -1
+}

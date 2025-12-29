@@ -1,0 +1,18 @@
+{
+  "score": 45,
+  "company": "Honeywell",
+  "key_insights": "Honeywell faces several legal challenges that pose moderate risks. A recent lawsuit alleges age discrimination related to the forced retirement of a US worker in China, potentially violating the Age Discrimination in Employment Act (ADEA). This case could lead to reputational damage and financial penalties. Additionally, Honeywell is involved in a class action lawsuit regarding COVID-19 vaccine mandates and employee badge requirements, which could result in further legal costs and negative publicity. A separate lawsuit involves a cybersecurity incident from June 2023, raising concerns about data protection and potential liabilities. While some 401(k) forfeiture suits have been dismissed, ongoing legal battles and the potential for negative rulings necessitate careful monitoring. Honeywell also faces claims of patent infringement and past False Claims Act violations, highlighting a range of compliance and legal risks.",
+  "red_flags": [
+    "Age discrimination lawsuit",
+    "COVID-19 vaccine mandate class action",
+    "Cybersecurity incident lawsuit",
+    "Patent infringement claims",
+    "Past False Claims Act violations"
+  ],
+  "strengths": [
+    "Dismissal of some 401(k) forfeiture suits",
+    "Established legal and compliance structures"
+  ],
+  "product_quality_rating": -1,
+  "environmental_rating": -1
+}

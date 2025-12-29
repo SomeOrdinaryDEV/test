@@ -1,0 +1,19 @@
+{
+  "score": 25,
+  "company": "Airbus",
+  "key_insights": "Airbus demonstrates strong financial health with a solid 'A' credit rating from Fitch and S&P. They reported revenues of €69.2 billion in 2024, indicating a robust market position. The company is experiencing growth, with a positive outlook for the commercial aircraft market. While a past corruption settlement is a concern, their current financial performance and credit ratings suggest a low risk profile for procurement.",
+  "red_flags": [
+    "Past corruption settlement (though resolved)",
+    "High capital expenditure requirements inherent in the aerospace industry"
+  ],
+  "strengths": [
+    "Strong 'A' credit rating",
+    "Significant revenue and market share",
+    "Positive growth outlook for the aviation industry",
+    "Strong order backlog"
+  ],
+  "growth_rate": 5,
+  "revenue": 74700000000,
+  "liquidity": 25000000000,
+  "profit_margins": 10
+}
