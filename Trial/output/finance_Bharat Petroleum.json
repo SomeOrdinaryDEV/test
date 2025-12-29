@@ -1,0 +1,20 @@
+{
+  "score": 45,
+  "company": "Bharat Petroleum",
+  "key_insights": "Bharat Petroleum demonstrates a mixed financial profile. The company showcases strong revenue ($60.96 billion USD) and a significant increase in net profit in FY 2023-24, indicating improved operational efficiency. Its credit ratings from Fitch and CRISIL reflect a stable financial position. However, the company's involvement in Russian oil purchases introduces geopolitical and reputational risks. Additionally, fluctuations in quarterly results and increasing current liabilities warrant monitoring. While Q1 FY26 net profit surged, relying solely on one quarter's performance may be misleading. The company's gross refining margins (GRM) have decreased compared to the previous year, which could impact future profitability. Overall, BPCL appears relatively stable but has potential vulnerabilities.",
+  "red_flags": [
+    "Involvement in Russian oil purchases",
+    "Fluctuations in quarterly results",
+    "Decreasing GRM",
+    "Increasing current liabilities"
+  ],
+  "strengths": [
+    "Strong revenue",
+    "Significant increase in net profit (FY 2023-24)",
+    "Investment grade credit ratings",
+    "High distillate yield due to complex refinery configuration"
+  ],
+  "growth_rate": 1161,
+  "liquidity": 1240000000,
+  "profit_margins": 5
+}

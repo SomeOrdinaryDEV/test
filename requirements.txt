@@ -1,0 +1,36 @@
+#main libraries
+pandas
+numpy
+matplotlib
+google-genai
+crewai
+crewai_tools
+python-decouple
+langchain-google-genai
+load_dotenv
+
+#news reader
+bs4
+gnews
+dnspython
+feedparser
+requests
+tavily-python
+transformers
+torch
+torchvision
+torchaudio
+newspaper3k
+lxml_html_clean
+nltk
+
+#rag
+chromadb
+google-generativeai
+langchain
+faiss-cpu
+langchain_google_genai 
+langchain-community
+
+#frontent
+streamlit

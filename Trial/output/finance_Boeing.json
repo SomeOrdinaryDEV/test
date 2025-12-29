@@ -1,0 +1,21 @@
+{
+  "score": 78,
+  "company": "Boeing",
+  "key_insights": "Boeing faces significant financial headwinds due to ongoing quality control issues, production delays, and recent losses. While the company has shown some signs of recovery in revenue, substantial debt and negative cash flow raise concerns. Recent news highlights mixed performance, with some positive revenue reports offset by substantial losses and ongoing operational challenges. The company's payment behavior has been scrutinized, with reports of extended payment terms to suppliers, potentially straining the supply chain. Boeing's credit rating has faced downgrades and negative outlook revisions, reflecting increased financial risk. Recent issues with their 737 MAX and other aircraft have further eroded public trust and increased scrutiny from regulatory bodies. Fitch recently revised their outlook to stable, while Moody's downgraded their senior unsecured debt rating. S&P removed Boeing's rating from CreditWatch negative on improving aircraft production and lower cash burn.",
+  "red_flags": [
+    "Negative operating cash flow",
+    "High debt levels",
+    "Credit rating downgrades",
+    "Production delays and quality control issues",
+    "Extended payment terms to suppliers"
+  ],
+  "strengths": [
+    "Strong brand recognition",
+    "Large order backlog",
+    "Dominant position in the aerospace industry",
+    "Recent revenue growth"
+  ],
+  "growth_rate": -14,
+  "liquidity": 12000000000,
+  "profit_margins": -3
+}

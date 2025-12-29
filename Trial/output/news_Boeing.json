@@ -1,0 +1,18 @@
+{
+  "score": 75,
+  "company": "Boeing",
+  "key_insights": "Recent news indicates heightened risk for Boeing due to multiple incidents. The Air India plane crash in Ahmedabad, described as the first 'hull event' for the 787, raises serious concerns about the aircraft's safety record and design. This event, combined with a United Airlines flight making an emergency return due to engine failure, highlights potential operational and quality control issues. A whistleblower's past warnings about 'catastrophic' events related to the 787 Dreamliner add to the severity of the situation, suggesting potential systemic problems. The market's reaction, with Boeing's stock slumping after the crash, reflects investor concern and potential financial instability.",
+  "red_flags": [
+    "Air India plane crash (Boeing 787)",
+    "Emergency landing of United Airlines flight due to engine failure",
+    "Whistleblower warnings about 787 Dreamliner design",
+    "Stock slump following the crash",
+    "India's aviation regulator orders checks on Boeing jets' fuel switches"
+  ],
+  "strengths": [
+    "Securing orders from airlines (e.g., Qatar Airways)",
+    "Ongoing efforts to rebuild business"
+  ],
+  "product_quality_rating": 55,
+  "environmental_rating": -1
+}

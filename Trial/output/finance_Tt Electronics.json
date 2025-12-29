@@ -1,0 +1,17 @@
+{
+  "score": 68,
+  "company": "Tt Electronics",
+  "key_insights": "TT Electronics shows a mixed financial performance. Revenue decreased significantly from £613.9 million in 2022 to £521.1 million in 2023, indicating a concerning trend. The adjusted operating profit margin is relatively low at 7.1%. While the company maintains a positive net cash position of approximately $76.5 million USD, the declining revenue and modest profit margins raise concerns about its overall financial health and sustainability. Furthermore, organic revenue growth has decreased, signaling potential challenges in the company's core business activities. This warrants a moderate risk score, requiring careful monitoring of their performance.",
+  "red_flags": [
+    "Decreasing revenue",
+    "Low profit margins",
+    "Decline in organic revenue growth"
+  ],
+  "strengths": [
+    "Positive net cash position",
+    "Presence in diverse markets"
+  ],
+  "growth_rate": -15,
+  "liquidity": 76500000,
+  "profit_margins": 7
+}
