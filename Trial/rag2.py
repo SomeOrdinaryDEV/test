@@ -32,7 +32,7 @@ tool = TXTSearchTool(txt="final/output_final.txt",
         llm=dict(
             provider="google", # or google, openai, anthropic, llama2, ...
             config=dict(
-                api_key='AIzaSyBWNADcUGeiol_F0d4v7wSbxWxEnNe9qzU',
+                api_key='',
                 model="gemini-2.5-flash",
                 temperature=0.5,
             ),
@@ -80,6 +80,7 @@ question = st.chat_input("Enter a question about the text file: ")
 if question:
     result = crew.kickoff(inputs={"question": question})
     st.write(result.raw)
+
 
 
 '''
