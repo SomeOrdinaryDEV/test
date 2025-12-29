@@ -10,7 +10,7 @@ import random
 import time
 
 
-client = genai.Client(api_key='AIzaSyB7OF3ppieHCE09zCWL2a-B874XSYpzP3g')
+client = genai.Client(api_key='API_KEY')
 llm = LLM(model="gemini/gemini-2.5-flash",
           temperature=0.7,)
 
@@ -108,3 +108,4 @@ if prompt := st.chat_input("Ask question about procurement process"):
         result = crew.kickoff(inputs={"question": prompt})
         response = st.write_stream(response_generator(result.raw))
     st.session_state.messages.append({"role": "assistant", "content": result.raw})
+
