@@ -38,7 +38,7 @@ tool = TXTSearchTool(txt="final/output_final.txt",
         llm=dict(
             provider="google", # or google, openai, anthropic, llama2, ...
             config=dict(
-                api_key='AIzaSyBWNADcUGeiol_F0d4v7wSbxWxEnNe9qzU',
+                api_key='',
                 model="gemini-2.5-flash",
                 temperature=0.5,
             ),
@@ -157,5 +157,6 @@ if prompt := st.chat_input("What is up?"):
         response = st.write(response.raw)
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response.raw})
+
 
 
